@@ -1,0 +1,29 @@
+LearnPress Pro Theme Screenshot
+
+For a proper WordPress theme screenshot, create a 1200x900px image showing:
+
+1. Header with logo and navigation
+2. Hero section with gradient background
+3. Featured course carousel
+4. Course grid with cards showing:
+   - Course thumbnails
+   - Titles
+   - Ratings
+   - Price badges
+   - Instructor info
+   - Enrollment buttons
+
+Recommended tools to create screenshot:
+- Take a screenshot of the live site after adding sample courses
+- Use design tools like Figma, Adobe XD, or Photoshop
+- Ensure it's 1200x900px exactly
+- Save as screenshot.png in theme root
+
+Color scheme to showcase:
+- Primary blue: #0056d2
+- Success green: #10b981
+- Gradient backgrounds
+- Clean white cards with shadows
+- Modern typography (Source Sans Pro)
+
+The screenshot should demonstrate the theme's modern, professional LMS design inspired by DeepLearning.AI and SystemDR.
